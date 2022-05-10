@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TNMxNEMESIS
-- 👀 I’m interested in tech and computers
+- 👀 I’m interested in tech and computer
 - 🌱 I’m currently learning c langauge
 - 💞️ I’m looking to collaborate on a app development
 - 📫 How to reach me mailyash.18here@gnailcom
